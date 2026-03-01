@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RuStore Catalog</string>
+    <string name="onboarding_title">Welcome to RuStore</string>
+    <string name="onboarding_subtitle">Explore the catalog of mobile apps: finance, games, transport and more.</string>
+    <string name="onboarding_button">Go to store</string>
+    <string name="action_retry">Retry</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="empty_list">List is empty</string>
+    <string name="title_store">App catalog</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_search">Search</string>
+    <string name="title_app_details">App details</string>
+    <string name="title_screenshots">Screenshots</string>
+
+    <string name="store_all_apps">All apps</string>
+    <string name="store_choose_category">Choose category</string>
+    <string name="search_hint">Search apps</string>
+    <string name="search_popular">Popular apps</string>
+    <string name="search_no_results">Nothing found. See popular apps below.</string>
+    <string name="details_install">Install</string>
+    <string name="details_installing">Installing…</string>
+    <string name="details_download">Download and install</string>
+    <string name="details_uninstall">Uninstall</string>
+    <string name="details_installed">App installed (demo)</string>
+    <string name="details_developer">Developer: %1$s</string>
+    <string name="details_category">Category: %1$s</string>
+    <string name="details_age_rating">Age rating: %1$s</string>
+    <string name="details_description">Description</string>
+    <string name="nav_back">Back</string>
+    <string name="nav_search">Search</string>
+
+</resources>
+

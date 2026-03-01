@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+local.properties
+**/build/
+
+# Kotlin/Java
+*.class
+
+# Logs
+*.log
+
+# Android artifacts
+*.apk
+*.aab
+
+# Backend generated output
+backend/static-site/
+
+# Temporary files
+*.tmp
+*.swp
+backend/apks/

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Каталог RuStore</string>
+    <string name="onboarding_title">Добро пожаловать в RuStore</string>
+    <string name="onboarding_subtitle">Исследуйте каталог мобильных приложений: финансы, игры, транспорт и многое другое.</string>
+    <string name="onboarding_button">Перейти к витрине</string>
+    <string name="action_retry">Повторить</string>
+    <string name="error_generic">Что-то пошло не так</string>
+    <string name="empty_list">Список пуст</string>
+    <string name="title_store">Каталог приложений</string>
+    <string name="title_categories">Категории</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_app_details">Карточка приложения</string>
+    <string name="title_screenshots">Скриншоты</string>
+
+    <string name="store_all_apps">Все приложения</string>
+    <string name="store_choose_category">Выбрать категорию</string>
+    <string name="search_hint">Поиск приложений</string>
+    <string name="search_popular">Популярные приложения</string>
+    <string name="search_no_results">Ничего не найдено. Посмотрите популярные приложения ниже.</string>
+    <string name="details_install">Установить</string>
+    <string name="details_installing">Установка…</string>
+    <string name="details_download">Скачать и установить</string>
+    <string name="details_uninstall">Удалить</string>
+    <string name="details_installed">Приложение установлено (демо)</string>
+    <string name="details_developer">Разработчик: %1$s</string>
+    <string name="details_category">Категория: %1$s</string>
+    <string name="details_age_rating">Возрастной рейтинг: %1$s</string>
+    <string name="details_description">Описание</string>
+    <string name="nav_back">Назад</string>
+    <string name="nav_search">Поиск</string>
+    <string name="channel_install_name">Установка приложения</string>
+    <string name="channel_install_description">Загрузка и установка приложения…</string>
+
+</resources>
+

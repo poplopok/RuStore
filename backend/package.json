@@ -1,0 +1,9 @@
+{
+  "name": "rustore-catalog-static",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:static": "node build-static-site.mjs"
+  }
+}
